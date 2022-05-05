@@ -1,1 +1,9 @@
-
+<xml>
+  <title>"impossible to push account button on the main page"</title>
+  <ID>BR20220505</ID>
+  <status>"open"</status>
+  <priority>"high"</status>
+  <severity>"major"</severity>
+  <actual result>"button cant be pushed"</actual result>
+  <expected result>"button can be pushed"</expected result>
+  <steps to reproduce>"open www.mysite.com, push account button>
